@@ -38,7 +38,7 @@
 ### 4-1. 회원관리
 | 바운더리 | 컨트롤 | 엔티티 |
 | -- | -- | -- |
-| UserHompage | MemberRegistrationControl | Memeber |
+| UserHompage | MemberRegistrationControl | Member |
 | MemberScreen | MemberControl |
 
 ### 4-2. 대여관리
